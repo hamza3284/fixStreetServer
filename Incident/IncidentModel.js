@@ -112,12 +112,6 @@ admin.GetIncident=function(data,result){
 }
 
 
-
-
-
-
-
-
 function MySqlQueryCaller(query,result){
     sql.query(query, function (err, res) {
         console.log(query);
