@@ -1,0 +1,30 @@
+{
+  "name": "fixstreet",
+  "version": "1.0.0",
+  "description": "Fix street app for fiverr client",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.5.0",
+    "mysql": "^2.17.1",
+    "nodemailer": "^6.4.2",
+    "oracledb": "^4.0.1",
+    "promise": "^8.0.3",
+    "sendmail": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fix",
+    "street",
+    "app",
+    "for",
+    "fiverr"
+  ],
+  "author": "kashif",
+  "license": "ISC"
+}
